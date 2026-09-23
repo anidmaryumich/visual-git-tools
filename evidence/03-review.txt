@@ -1,0 +1,4 @@
+Commit "handle empty price lists": meant to handle if we get empty price list.
+Commit "document tool used for hw:: meant to update readme to say what tool I am using.
+Screenshot laged 03-review.png
+Separate commit is safer so its easier to undo certain work and test in smaller parts.

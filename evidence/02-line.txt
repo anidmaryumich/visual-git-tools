@@ -1,0 +1,14 @@
+Line under investigation:
+print("DEBUG total w/ tax:", total)
+
+Commit ID: 8f7dd3d
+
+Author: anidmaryumich
+
+Date: 4 minutes ago
+
+Commit message: update debug prinntn with tax
+
+We are investigating the last commit message to update debug print that cause changed after the add debug print to beck out total commit.
+
+Screenshot under 02-history.png
