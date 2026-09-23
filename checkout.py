@@ -4,4 +4,4 @@ def calculate_total(prices, tax_rate=0.06):
     return total
 
 
-print("DEBUG total:", total)
+print("DEBUG total w/ tax:", total)
