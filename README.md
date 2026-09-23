@@ -8,3 +8,5 @@ Practice repository for SWE 325/525 Software Construction, exploring Git through
 - `screenshots/` – screenshots of the Git GUI
 
 ## Review notes
+
+Tool choice: GitHub Desktop is used for this lab.
