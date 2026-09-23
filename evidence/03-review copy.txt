@@ -1,0 +1,8 @@
+Before merge:
+
+Test
+Test main text 2
+
+After merge:
+
+Test main text 2
